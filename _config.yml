@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+languages: ["en", "es"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  de: Deutsch
+  en: English
